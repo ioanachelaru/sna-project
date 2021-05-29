@@ -66,12 +66,12 @@ graph [
   ]
   node [
     id 13
-    label "1.3448205196573778E+18"
+    label "1344820519657377792"
     name "MagicDaGavining"
   ]
   node [
     id 14
-    label "1344820519657377792"
+    label "1.3448205196573778E+18"
     name "MagicDaGavining"
   ]
   node [
@@ -186,12 +186,12 @@ graph [
   ]
   node [
     id 37
-    label "1315979892954214401"
+    label "1.3159798929542144E+18"
     name "SpiderMan3news"
   ]
   node [
     id 38
-    label "1.3159798929542144E+18"
+    label "1315979892954214401"
     name "SpiderMan3news"
   ]
   node [
@@ -406,12 +406,12 @@ graph [
   ]
   node [
     id 81
-    label "1387454434725175296"
+    label "1.3874544347251753E+18"
     name "carolxloki"
   ]
   node [
     id 82
-    label "1.3874544347251753E+18"
+    label "1387454434725175296"
     name "carolxloki"
   ]
   node [
@@ -451,12 +451,12 @@ graph [
   ]
   node [
     id 90
-    label "50317463.0"
+    label "50317463"
     name "MichaelSteele"
   ]
   node [
     id 91
-    label "50317463"
+    label "50317463.0"
     name "MichaelSteele"
   ]
   node [
@@ -516,12 +516,12 @@ graph [
   ]
   node [
     id 103
-    label "2253826003"
+    label "2253826003.0"
     name "TonyMitchell816"
   ]
   node [
     id 104
-    label "2253826003.0"
+    label "2253826003"
     name "TonyMitchell816"
   ]
   node [
@@ -576,12 +576,12 @@ graph [
   ]
   node [
     id 115
-    label "978265628426432512"
+    label "9.782656284264325E+17"
     name "patriottakes"
   ]
   node [
     id 116
-    label "9.782656284264325E+17"
+    label "978265628426432512"
     name "patriottakes"
   ]
   node [
@@ -636,12 +636,12 @@ graph [
   ]
   node [
     id 127
-    label "1.284943496483418E+18"
+    label "1284943496483418113"
     name "Adrenalizenergy"
   ]
   node [
     id 128
-    label "1284943496483418113"
+    label "1.284943496483418E+18"
     name "Adrenalizenergy"
   ]
   node [
@@ -811,12 +811,12 @@ graph [
   ]
   node [
     id 162
-    label "34354763"
+    label "34354763.0"
     name "WrenKitchens"
   ]
   node [
     id 163
-    label "34354763.0"
+    label "34354763"
     name "WrenKitchens"
   ]
   node [
@@ -831,12 +831,12 @@ graph [
   ]
   node [
     id 166
-    label "1.387169254521262E+18"
+    label "1387169254521262087"
     name "unlinkednode"
   ]
   node [
     id 167
-    label "1387169254521262087"
+    label "1.387169254521262E+18"
     name "unlinkednode"
   ]
   node [
@@ -866,12 +866,12 @@ graph [
   ]
   node [
     id 173
-    label "1.369432776643076E+18"
+    label "1369432776643076101"
     name "Sivara_Comics"
   ]
   node [
     id 174
-    label "1369432776643076101"
+    label "1.369432776643076E+18"
     name "Sivara_Comics"
   ]
   node [
@@ -961,12 +961,12 @@ graph [
   ]
   node [
     id 192
-    label "1929545755"
+    label "1929545755.0"
     name "lizj_98"
   ]
   node [
     id 193
-    label "1929545755.0"
+    label "1929545755"
     name "lizj_98"
   ]
   node [
@@ -976,12 +976,12 @@ graph [
   ]
   node [
     id 195
-    label "2890678966.0"
+    label "2890678966"
     name "Maximus93Max"
   ]
   node [
     id 196
-    label "2890678966"
+    label "2890678966.0"
     name "Maximus93Max"
   ]
   node [
@@ -1141,12 +1141,12 @@ graph [
   ]
   node [
     id 228
-    label "192935052.0"
+    label "192935052"
     name "jchaltiwanger"
   ]
   node [
     id 229
-    label "192935052"
+    label "192935052.0"
     name "jchaltiwanger"
   ]
   node [
@@ -1156,12 +1156,12 @@ graph [
   ]
   node [
     id 231
-    label "1387023582"
+    label "1387023582.0"
     name "Cagle223Stephen"
   ]
   node [
     id 232
-    label "1387023582.0"
+    label "1387023582"
     name "Cagle223Stephen"
   ]
   node [
@@ -1186,12 +1186,12 @@ graph [
   ]
   node [
     id 237
-    label "1.361091786253435E+18"
+    label "1361091786253434888"
     name "means_conner"
   ]
   node [
     id 238
-    label "1361091786253434888"
+    label "1.361091786253435E+18"
     name "means_conner"
   ]
   node [
@@ -1291,12 +1291,12 @@ graph [
   ]
   node [
     id 258
-    label "1335272835531612163"
+    label "1.3352728355316122E+18"
     name "AllThingsSnyder"
   ]
   node [
     id 259
-    label "1.3352728355316122E+18"
+    label "1335272835531612163"
     name "AllThingsSnyder"
   ]
   node [
@@ -1406,12 +1406,12 @@ graph [
   ]
   node [
     id 281
-    label "1317180475765555205"
+    label "1.3171804757655552E+18"
     name "StillHawkeye"
   ]
   node [
     id 282
-    label "1.3171804757655552E+18"
+    label "1317180475765555205"
     name "StillHawkeye"
   ]
   node [
@@ -1481,12 +1481,12 @@ graph [
   ]
   node [
     id 296
-    label "1071988987"
+    label "1071988987.0"
     name "nickh19133794"
   ]
   node [
     id 297
-    label "1071988987.0"
+    label "1071988987"
     name "nickh19133794"
   ]
   node [
@@ -1496,12 +1496,12 @@ graph [
   ]
   node [
     id 299
-    label "932786452739407872"
+    label "9.327864527394079E+17"
     name "CultureCrave"
   ]
   node [
     id 300
-    label "9.327864527394079E+17"
+    label "932786452739407872"
     name "CultureCrave"
   ]
   node [
@@ -1526,12 +1526,12 @@ graph [
   ]
   node [
     id 305
-    label "1.3949501215577416E+18"
+    label "1394950121557741573"
     name "OfSassyTasers"
   ]
   node [
     id 306
-    label "1394950121557741573"
+    label "1.3949501215577416E+18"
     name "OfSassyTasers"
   ]
   node [
@@ -1571,12 +1571,12 @@ graph [
   ]
   node [
     id 314
-    label "1159064084895215618"
+    label "1.1590640848952156E+18"
     name "chal_be_nikall"
   ]
   node [
     id 315
-    label "1.1590640848952156E+18"
+    label "1159064084895215618"
     name "chal_be_nikall"
   ]
   node [
@@ -1801,12 +1801,12 @@ graph [
   ]
   node [
     id 360
-    label "1.2710929741732045E+18"
+    label "1271092974173204482"
     name "616bradley"
   ]
   node [
     id 361
-    label "1271092974173204482"
+    label "1.2710929741732045E+18"
     name "616bradley"
   ]
   node [
@@ -1911,12 +1911,12 @@ graph [
   ]
   node [
     id 382
-    label "1185821956173635584"
+    label "1.1858219561736356E+18"
     name "K_SPEEDFIRE"
   ]
   node [
     id 383
-    label "1.1858219561736356E+18"
+    label "1185821956173635584"
     name "K_SPEEDFIRE"
   ]
   node [
@@ -1941,12 +1941,12 @@ graph [
   ]
   node [
     id 388
-    label "1.2964923741312E+18"
+    label "1296492374131200000"
     name "wreskie"
   ]
   node [
     id 389
-    label "1296492374131200000"
+    label "1.2964923741312E+18"
     name "wreskie"
   ]
   node [
@@ -1956,12 +1956,12 @@ graph [
   ]
   node [
     id 391
-    label "937640882626588673"
+    label "9.376408826265887E+17"
     name "Haryan_Glaeddyv"
   ]
   node [
     id 392
-    label "9.376408826265887E+17"
+    label "937640882626588673"
     name "Haryan_Glaeddyv"
   ]
   node [
@@ -2036,12 +2036,12 @@ graph [
   ]
   node [
     id 407
-    label "2324394618.0"
+    label "2324394618"
     name "MozFrame"
   ]
   node [
     id 408
-    label "2324394618"
+    label "2324394618.0"
     name "MozFrame"
   ]
   node [
@@ -2131,12 +2131,12 @@ graph [
   ]
   node [
     id 426
-    label "2872946519.0"
+    label "2872946519"
     name "jilo_nketiah"
   ]
   node [
     id 427
-    label "2872946519"
+    label "2872946519.0"
     name "jilo_nketiah"
   ]
   node [
@@ -2146,12 +2146,12 @@ graph [
   ]
   node [
     id 429
-    label "1.287475084282794E+18"
+    label "1287475084282793985"
     name "Soulnemesis83"
   ]
   node [
     id 430
-    label "1287475084282793985"
+    label "1.287475084282794E+18"
     name "Soulnemesis83"
   ]
   node [
@@ -2186,12 +2186,12 @@ graph [
   ]
   node [
     id 437
-    label "1321741097618575360"
+    label "1.3217410976185754E+18"
     name "okayfine441"
   ]
   node [
     id 438
-    label "1.3217410976185754E+18"
+    label "1321741097618575360"
     name "okayfine441"
   ]
   node [
@@ -2231,12 +2231,12 @@ graph [
   ]
   node [
     id 446
-    label "1.3668353041754358E+18"
+    label "1366835304175435777"
     name "oldmanten"
   ]
   node [
     id 447
-    label "1366835304175435777"
+    label "1.3668353041754358E+18"
     name "oldmanten"
   ]
   node [
@@ -2451,12 +2451,12 @@ graph [
   ]
   node [
     id 490
-    label "2222133757.0"
+    label "2222133757"
     name "Adriyoung"
   ]
   node [
     id 491
-    label "2222133757"
+    label "2222133757.0"
     name "Adriyoung"
   ]
   node [
@@ -2501,12 +2501,12 @@ graph [
   ]
   node [
     id 500
-    label "9.990371412451942E+17"
+    label "999037141245194240"
     name "Lyna91Fr"
   ]
   node [
     id 501
-    label "999037141245194240"
+    label "9.990371412451942E+17"
     name "Lyna91Fr"
   ]
   node [
@@ -2516,12 +2516,12 @@ graph [
   ]
   node [
     id 503
-    label "27937239"
+    label "27937239.0"
     name "Gambo987"
   ]
   node [
     id 504
-    label "27937239.0"
+    label "27937239"
     name "Gambo987"
   ]
   node [
@@ -2536,12 +2536,12 @@ graph [
   ]
   node [
     id 507
-    label "20244875"
+    label "20244875.0"
     name "SarahMillican75"
   ]
   node [
     id 508
-    label "20244875.0"
+    label "20244875"
     name "SarahMillican75"
   ]
   node [
@@ -2576,12 +2576,12 @@ graph [
   ]
   node [
     id 515
-    label "716759234"
+    label "716759234.0"
     name "CerebroCast"
   ]
   node [
     id 516
-    label "716759234.0"
+    label "716759234"
     name "CerebroCast"
   ]
   node [
@@ -2591,12 +2591,12 @@ graph [
   ]
   node [
     id 518
-    label "368568236"
+    label "368568236.0"
     name "GameCat16"
   ]
   node [
     id 519
-    label "368568236.0"
+    label "368568236"
     name "GameCat16"
   ]
   node [
@@ -2606,12 +2606,12 @@ graph [
   ]
   node [
     id 521
-    label "1.2841865401936773E+18"
+    label "1284186540193677314"
     name "WhosNina__"
   ]
   node [
     id 522
-    label "1284186540193677314"
+    label "1.2841865401936773E+18"
     name "WhosNina__"
   ]
   node [
@@ -2666,12 +2666,12 @@ graph [
   ]
   node [
     id 533
-    label "1.2814231416344863E+18"
+    label "1281423141634486274"
     name "Uber_Kryptonian"
   ]
   node [
     id 534
-    label "1281423141634486274"
+    label "1.2814231416344863E+18"
     name "Uber_Kryptonian"
   ]
   node [
@@ -2846,12 +2846,12 @@ graph [
   ]
   node [
     id 569
-    label "2602298154.0"
+    label "2602298154"
     name "Justcreations1"
   ]
   node [
     id 570
-    label "2602298154"
+    label "2602298154.0"
     name "Justcreations1"
   ]
   node [
@@ -2996,12 +2996,12 @@ graph [
   ]
   node [
     id 599
-    label "1299559988071813121"
+    label "1.299559988071813E+18"
     name "rogersromanova"
   ]
   node [
     id 600
-    label "1.299559988071813E+18"
+    label "1299559988071813121"
     name "rogersromanova"
   ]
   node [
@@ -3046,12 +3046,12 @@ graph [
   ]
   node [
     id 609
-    label "20120790"
+    label "20120790.0"
     name "bethorne"
   ]
   node [
     id 610
-    label "20120790.0"
+    label "20120790"
     name "bethorne"
   ]
   node [
@@ -3091,12 +3091,12 @@ graph [
   ]
   node [
     id 618
-    label "2263691581"
+    label "2263691581.0"
     name "RonJoseph717"
   ]
   node [
     id 619
-    label "2263691581.0"
+    label "2263691581"
     name "RonJoseph717"
   ]
   node [
@@ -3301,12 +3301,12 @@ graph [
   ]
   node [
     id 660
-    label "1262890686803783683"
+    label "1.2628906868037837E+18"
     name "AllFatherWorks"
   ]
   node [
     id 661
-    label "1.2628906868037837E+18"
+    label "1262890686803783683"
     name "AllFatherWorks"
   ]
   node [
@@ -3446,12 +3446,12 @@ graph [
   ]
   node [
     id 689
-    label "1.1946710770935276E+18"
+    label "1194671077093527559"
     name "hwiy0_0"
   ]
   node [
     id 690
-    label "1194671077093527559"
+    label "1.1946710770935276E+18"
     name "hwiy0_0"
   ]
   node [
@@ -3461,12 +3461,12 @@ graph [
   ]
   node [
     id 692
-    label "2738421893"
+    label "2738421893.0"
     name "luwie_zz"
   ]
   node [
     id 693
-    label "2738421893.0"
+    label "2738421893"
     name "luwie_zz"
   ]
   node [
@@ -3656,12 +3656,12 @@ graph [
   ]
   node [
     id 731
-    label "1256257358138880001"
+    label "1.25625735813888E+18"
     name "Bonecrusher483"
   ]
   node [
     id 732
-    label "1.25625735813888E+18"
+    label "1256257358138880001"
     name "Bonecrusher483"
   ]
   node [
@@ -3701,12 +3701,12 @@ graph [
   ]
   node [
     id 740
-    label "1377659116966006787"
+    label "1.3776591169660068E+18"
     name "singbinist"
   ]
   node [
     id 741
-    label "1.3776591169660068E+18"
+    label "1377659116966006787"
     name "singbinist"
   ]
   node [
@@ -3721,12 +3721,12 @@ graph [
   ]
   node [
     id 744
-    label "816310076"
+    label "816310076.0"
     name "VsVmcgee"
   ]
   node [
     id 745
-    label "816310076.0"
+    label "816310076"
     name "VsVmcgee"
   ]
   node [
@@ -3736,12 +3736,12 @@ graph [
   ]
   node [
     id 747
-    label "35148636"
+    label "35148636.0"
     name "DavidRozansky"
   ]
   node [
     id 748
-    label "35148636.0"
+    label "35148636"
     name "DavidRozansky"
   ]
   node [
@@ -3891,12 +3891,12 @@ graph [
   ]
   node [
     id 778
-    label "940250659156365312"
+    label "9.402506591563653E+17"
     name "satortenet9"
   ]
   node [
     id 779
-    label "9.402506591563653E+17"
+    label "940250659156365312"
     name "satortenet9"
   ]
   node [
@@ -3986,12 +3986,12 @@ graph [
   ]
   node [
     id 797
-    label "1318967886438977544"
+    label "1.3189678864389775E+18"
     name "fratouisluvr"
   ]
   node [
     id 798
-    label "1.3189678864389775E+18"
+    label "1318967886438977544"
     name "fratouisluvr"
   ]
   node [
@@ -4041,12 +4041,12 @@ graph [
   ]
   node [
     id 808
-    label "111275566"
+    label "111275566.0"
     name "AshtreyGaming"
   ]
   node [
     id 809
-    label "111275566.0"
+    label "111275566"
     name "AshtreyGaming"
   ]
   node [
@@ -4211,13 +4211,13 @@ graph [
   ]
   node [
     id 842
-    label "1366180627138162688"
-    name "weboffatality"
+    label "1.3933465096185324E+18"
+    name "drbanner_1218"
   ]
   node [
     id 843
-    label "1.3933465096185324E+18"
-    name "drbanner_1218"
+    label "1366180627138162688"
+    name "weboffatality"
   ]
   node [
     id 844
@@ -4241,12 +4241,12 @@ graph [
   ]
   node [
     id 848
-    label "1.022422377269846E+18"
+    label "1022422377269846016"
     name "Jacinator_123_"
   ]
   node [
     id 849
-    label "1022422377269846016"
+    label "1.022422377269846E+18"
     name "Jacinator_123_"
   ]
   node [
@@ -4316,12 +4316,12 @@ graph [
   ]
   node [
     id 863
-    label "2494289557"
+    label "2494289557.0"
     name "ArielRelaford"
   ]
   node [
     id 864
-    label "2494289557.0"
+    label "2494289557"
     name "ArielRelaford"
   ]
   node [
@@ -4346,12 +4346,12 @@ graph [
   ]
   node [
     id 869
-    label "19465358"
+    label "19465358.0"
     name "pj_campbell"
   ]
   node [
     id 870
-    label "19465358.0"
+    label "19465358"
     name "pj_campbell"
   ]
   node [
@@ -4376,12 +4376,12 @@ graph [
   ]
   node [
     id 875
-    label "1109407236240097280"
+    label "1.1094072362400973E+18"
     name "brwnroti"
   ]
   node [
     id 876
-    label "1.1094072362400973E+18"
+    label "1109407236240097280"
     name "brwnroti"
   ]
   node [
@@ -4707,15 +4707,15 @@ graph [
   edge [
     source 12
     target 13
-    tweetId "1398337985725145088"
+    tweetId "1398337745219686401"
   ]
   edge [
     source 12
     target 14
-    tweetId "1398337745219686401"
+    tweetId "1398337985725145088"
   ]
   edge [
-    source 13
+    source 14
     target 20
     tweetId "1398337985725145088"
   ]
@@ -7017,30 +7017,30 @@ graph [
   edge [
     source 514
     target 515
-    tweetId "1398353578121650183"
+    tweetId "1398354688437854213"
   ]
   edge [
     source 514
     target 516
-    tweetId "1398354688437854213"
+    tweetId "1398353578121650183"
   ]
   edge [
-    source 516
+    source 515
     target 551
     tweetId "1398354688437854213"
   ]
   edge [
     source 517
     target 518
-    tweetId "1398355612770111488"
+    tweetId "1398355708501008391"
   ]
   edge [
     source 517
     target 519
-    tweetId "1398355708501008391"
+    tweetId "1398355612770111488"
   ]
   edge [
-    source 519
+    source 518
     target 543
     tweetId "1398355708501008391"
   ]

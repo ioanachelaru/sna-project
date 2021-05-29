@@ -57,11 +57,11 @@ max_bet = max(graph_betweenness.items(), key=itemgetter(1))
 print("The node with id ", max_bet[0], " has a betweenness centrality of ", max_bet[1], " which is the maximum of the Graph")
 
 # The largest connected component
-fig = plt.figure(figsize=(100, 100))
-nx.draw_spring(largest_subgraph, node_size=10)
-plt.show()
+# fig = plt.figure(figsize=(100, 100))
+# nx.draw_spring(largest_subgraph, node_size=10)
+# plt.show()
 
 # The entire graph
-fig = plt.figure(figsize=(100, 100))
-nx.draw_spring(graph, node_size=10)
-plt.show()
+# fig = plt.figure(figsize=(100, 100))
+# nx.draw_spring(graph, node_size=10)
+# plt.show()
